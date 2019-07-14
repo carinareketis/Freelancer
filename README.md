@@ -2,7 +2,7 @@
 
 O desafio consiste em replicar o site **Freelancer** e o resultado obtido foi este: 
 
-![Freelancer Website](https://github.com/carinareketis/freelancer/blob/master/freelancer-pagina-final.png)
+![Freelancer Website](https://github.com/carinareketis/Freelancer/blob/master/docs/freelancer-pagina-final.png)
 
 ## Processo de desenvolvimento
 
