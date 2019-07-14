@@ -6,13 +6,13 @@ O desafio consiste em replicar o site **Freelancer** e o resultado obtido foi es
 
 ## Processo de desenvolvimento
 
-* Criei uma página HTML com seções semânticas, utilizando tags apropriadas para representar essas seções.
+* Criei uma página HTML semântica, utilizando tags apropriadas.
 
 * A página HTML desenvolvida procura seguir as regras de identação, aninhamento e elementos em bloco e elementos inline.
 
 * Foi utilizado também os recursos de atributos como "class" entre outros.
 
-* No CSS explorei bastante a utilização do Flexbox e efeitos como o hover e action.
+* No CSS explorei bastante a utilização do Flexbox e efeitos como o hover, action e scale.
 
 ## Considerações gerais para executar o projeto
 
